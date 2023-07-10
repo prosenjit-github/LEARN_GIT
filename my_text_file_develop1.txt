@@ -1,1 +1,2 @@
 This is my_text_file_develop1.txt from develop branch.
+This is my_text_file_develop1.txt from develop branch2.
